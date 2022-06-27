@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohaamedateef](https://github.com/mohaamedateef)
 
-- 💬 Ask me about HTML, CSS, Bootstrap, JS, C#.
+- 💬 Ask me about HTML, CSS, Bootstrap, JS, C#, jQuery, Angular.
 
 - 📫 How to reach me **mohamedatef290@gmail.com**
 
-- 📄 Know about my experiences [Mohamed Atef Resume - Full Stack Web Developer](https://drive.google.com/file/d/1yocCghLsjV1iQpHE-5as-nvoqWrNRgX5/view?usp=sharing)
+- 📄 Know about my experiences [Mohamed Atef Resume - Full Stack Web Developer](https://drive.google.com/file/d/1qYvbhwr59eGx_ecih5Qwl-vwVj2BtBgA/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohaamedatef) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohaamed_atef) 
