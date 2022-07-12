@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohaamedateef](https://github.com/mohaamedateef)
 
-- 💬 Ask me about HTML, CSS, Bootstrap, JS, C#, jQuery, Angular.
+- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, jQuery, TypeScript, Angular, C#, LINQ, Entity Framework.
 
 - 📫 How to reach me **mohamedatef290@gmail.com**
 
