@@ -7,11 +7,11 @@
 
 ## :sassy_man:  About me
 
-- I’m currently learning **Angular**.
+- I’m currently learning **IBM Integration BUS**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohaamedateef](https://github.com/mohaamedateef)
 
-- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, jQuery, TypeScript, Angular, C#, LINQ, Entity Framework.
+- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, jQuery, TypeScript, Angular, C#, LINQ, Entity Framework, MVC, Web APIs, SQL Server, AJAX.
 
 - 📫 How to reach me **mohamedatef290@gmail.com**
 
